@@ -1,5 +1,9 @@
 # my-Experience-with-Python
-i started python some months ago, i dont use it very much, but it is interesting.
+i started python some months ago, i dont use it very much, but it is interesting. CHECK BELOW MY FIRST PROJECT EVER.
 
 i have got a notebook full of python notes, but i prefer use it just for pass time, today (22/02/2026), i tried make my first 2 commands in my new programming language im creating:
 <img width="837" height="802" alt="image" src="https://github.com/user-attachments/assets/656e5a8d-716d-438e-aa48-b6fc2f406eaa" />
+
+This is my most old project:
+<img width="972" height="73" alt="image" src="https://github.com/user-attachments/assets/f264ed7b-a164-4c81-acdd-30cc057506cb" />
+<img width="354" height="763" alt="image" src="https://github.com/user-attachments/assets/c2124352-941b-412c-b406-e87693de8ba1" />
